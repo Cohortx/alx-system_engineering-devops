@@ -1,2 +1,2 @@
 #!/bin/bash
-grey " bin" /etc/passwd
+grey "bin" /etc/passwd
